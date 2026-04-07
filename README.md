@@ -32,10 +32,8 @@ We also reimplemented the code for several baseline methods:
 ## Results
 
 <p align="center">
-  <img src="./assets/images/results.png" alt="results" width="85%">
+  <img src="./results.jpg" alt="results" width="75%">
 </p>
 
 Our method achieves competitive or superior results compared with previous methods on multiple benchmarks.
 
-
-        └── results.png
