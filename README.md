@@ -14,13 +14,13 @@ For example, the queries may contain temporal constraint words, such as ''first'
 - **Paper**: [ACM SIGIR](https://arxiv.org/abs/xxxx.xxxxx)
 - **Code Download**: [Baidu Netdisk](https://pan.baidu.com/s/1eUgvASi)
 
-We also reimplement the code for several baselines:
+We also reimplemented the code for several baseline methods:
 - **Code Download**: [MCN](https://github.com/LisaAnne/LocalizingMoments)
 - **Code Download**: [Glove](https://pan.baidu.com/s/1htqQDla)
 - **Code Download**: [TALL](https://github.com/jiyanggao/TALL)
 - **Code Download**: [TALL](https://pan.baidu.com/s/1kWjsXYB)
 - **Code Download**: [VSA-STV](https://pan.baidu.com/s/1eTX8hOI)
-**Code Download**: [VSA-RNN](https://pan.baidu.com/s/1mjx4eve)
+- **Code Download**: [VSA-RNN](https://pan.baidu.com/s/1mjx4eve)
   
 ## Method Overview
 
