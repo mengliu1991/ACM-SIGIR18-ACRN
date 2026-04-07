@@ -11,7 +11,7 @@ For example, the queries may contain temporal constraint words, such as ''first'
 
 ## Links
 
-- **Paper**: [ACM SIGIR](https://arxiv.org/abs/xxxx.xxxxx)
+- **Paper**: [ACM SIGIR](https://dl.acm.org/doi/abs/10.1145/3209978.3210003)
 - **Code Download**: [Baidu Netdisk](https://pan.baidu.com/s/1eUgvASi)
 
 We also reimplemented the code for several baseline methods:
