@@ -1,10 +1,10 @@
-# Project Title
+# Official Code for Attentive Moment Retrieval in Videos
 
 > A concise and informative subtitle for your project.
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/yourname/your-repo)
-[![Download](https://img.shields.io/badge/Download-Baidu_Netdisk-blue)](https://pan.baidu.com/s/xxxxxx)
+[![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Code](https://img.shields.io/badge/Code-black)](https://pan.baidu.com/s/1eUgvASi)
+
 
 ## Introduction
 
@@ -19,10 +19,6 @@ This repository contains the official implementation of **Attentive Moment Retri
  For example, the queries may contain temporal constraint words, such as ''first'', therefore need temporal context to properly comprehend them. To address these issues, we develop an Attentive Cross-Modal Retrieval Network.
 
 
-## Links
-
-- **Paper**: [ACM SIGIR](https://dl.acm.org/doi/pdf/10.1145/3209978.3210003)
-- **Code Download**: [Baidu Netdisk](https://pan.baidu.com/s/1eUgvASi)
 
 ## Method Overview
 
