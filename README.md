@@ -25,14 +25,14 @@ We also reimplemented the code for several baseline methods:
 ## Method Overview
 
 <p align="center">
-  <img src="./framework.jpg" alt="framework" width="75%">
+  <img src="./framework.jpg" alt="framework" width="55%">
 </p>
 
 
 ## Results
 
 <p align="center">
-  <img src="./results.jpg" alt="results" width="85%">
+  <img src="./results.jpg" alt="results" width="95%">
 </p>
 
 Our method achieves competitive or superior results compared with previous methods on multiple benchmarks.
