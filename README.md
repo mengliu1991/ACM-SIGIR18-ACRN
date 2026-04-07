@@ -2,9 +2,6 @@
 
 
 ## Introduction
-
-This repository contains the official implementation of **Attentive Moment Retrieval in Videos**.
-
 In the past few years, language-based video retrieval has attracted a lot of attention. However, as a natural extension, localizing the specific video moments within a video given a description query is seldom explored. 
 Although these two tasks look similar, the latter is more challenging due to two main reasons: 1) The former task only needs to judge whether the query occurs in a video and returns an entire video, 
 but the latter is expected to judge which moment within a video matches the query and accurately returns the start and end points of the moment.  Due to the fact that different moments in a video have varying durations and diverse spatial-temporal characteristics, uncovering the underlying moments is highly challenging. 
@@ -17,7 +14,14 @@ For example, the queries may contain temporal constraint words, such as ''first'
 - **Paper**: [ACM SIGIR](https://arxiv.org/abs/xxxx.xxxxx)
 - **Code Download**: [Baidu Netdisk](https://pan.baidu.com/s/1eUgvASi)
 
-
+We also reimplement the code for several baselines:
+- **Code Download**: [MCN](https://github.com/LisaAnne/LocalizingMoments)
+- **Code Download**: [Glove](https://pan.baidu.com/s/1htqQDla)
+- **Code Download**: [TALL](https://github.com/jiyanggao/TALL)
+- **Code Download**: [TALL](https://pan.baidu.com/s/1kWjsXYB)
+- **Code Download**: [VSA-STV](https://pan.baidu.com/s/1eTX8hOI)
+**Code Download**: [VSA-RNN](https://pan.baidu.com/s/1mjx4eve)
+  
 ## Method Overview
 
 <p align="center">
