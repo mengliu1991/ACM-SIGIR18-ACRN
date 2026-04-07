@@ -37,3 +37,29 @@ We also reimplemented the code for several baseline methods:
 
 Our method achieves competitive or superior results compared with previous methods on multiple benchmarks.
 
+## License
+
+Copyright (C) 2018 Shandong University
+
+This program is licensed under the GNU General Public License v3.0.  
+You may obtain a copy of the license at:  
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Any derivative work based on this program must also be licensed under the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version, if such derivative work is distributed to a third party.
+
+The copyright of this program is owned by Shandong University.
+
+For commercial projects that require distributing this code as part of a program that cannot be released under the GNU General Public License, please contact `mengliu.sdu@gmail.com` to obtain a commercial license.
+
+## Citation
+
+If you find this project useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{liu2018attentive,
+  title={Attentive moment retrieval in videos},
+  author={Liu, Meng and Wang, Xiang and Nie, Liqiang and He, Xiangnan and Chen, Baoquan and Chua, Tat-Seng},
+  booktitle={The 41st international ACM SIGIR conference on research \& development in information retrieval},
+  pages={15--24},
+  year={2018}
+}
