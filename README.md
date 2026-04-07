@@ -32,7 +32,7 @@ We also reimplemented the code for several baseline methods:
 ## Results
 
 <p align="center">
-  <img src="./results.jpg" alt="results" width="75%">
+  <img src="./results.jpg" alt="results" width="85%">
 </p>
 
 Our method achieves competitive or superior results compared with previous methods on multiple benchmarks.
