@@ -25,7 +25,7 @@ We also reimplemented the code for several baseline methods:
 ## Method Overview
 
 <p align="center">
-  <img src="./assets/images/framework.png" alt="framework" width="85%">
+  <img src="./framework.jpg" alt="framework" width="85%">
 </p>
 
 
